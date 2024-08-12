@@ -20,7 +20,7 @@
     "@handsontable/react": "^12.3.3",
     "@kanaries/graphic-walker": "^0.3.0",
     "@minoru/react-dnd-treeview": "^3.4.4",
-    "@mui/icons-material": "^5.11.16",
+    "@mui/icons-material": "^5.16.4",
     "@mui/lab": "^5.0.0-alpha.127",
     "@mui/material": "^5.13.0",
     "@mui/x-date-pickers": "^6.4.0",
